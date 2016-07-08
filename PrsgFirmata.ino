@@ -21,7 +21,7 @@ FirmataExt firmataExt;
 #include <FirmataReporting.h>
 FirmataReporting reporting;
 
-#include "FirmataEncoder.h"
+#include <FirmataEncoder.h>
 FirmataEncoder encoder;
 
 void systemResetCallback()
